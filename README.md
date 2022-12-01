@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @britoeabreu (Fernando Brito e Abreu)
-- 👀 I’m interested in Software Engineering and Smart Tourism topics
-- 🌱 I’m currently teaching Process Mining and Process Simulation
-- 💞️ I’m looking to collaborate on Smart Tourism initiatives
+- 👀 Current interests: Software Quality; Process Modeling, Mining and Simulation; MDD; Experimental Software Engineering; Smart Tourism; Industrial IoT
+- 🌱 My CV: https://ciencia.iscte-iul.pt/authors/fernando-brito-e-abreu
+- 💞️ My research impact: https://scholar.google.pt/citations?user=CCTGOawAAAAJ&sortby=pubdate
 - 📫 How to reach me -> Google me and you will find!
 
 <!---
