@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @britoeabreu (Fernando Brito e Abreu)
 - 👀 I’m interested in Software Engineering and Smart Tourism topics
-- 🌱 I’m currently learning Process Mining and Graph Databases
+- 🌱 I’m currently teaching Process Mining and Process Simulation
 - 💞️ I’m looking to collaborate on Smart Tourism initiatives
 - 📫 How to reach me -> Google me and you will find!
 
